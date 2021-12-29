@@ -1,6 +1,6 @@
 import  unittest
-from  general  import  *
-from  dns  import  *
+from  general  import genral 
+from  dns  import dns 
 
 
 class  TestDns ( unittest . TestCase ):
