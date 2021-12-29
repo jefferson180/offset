@@ -1,6 +1,7 @@
+import  unittest
 from  general  import  *
 from  dns  import  *
-import  unittest
+
 
 class  TestDns ( unittest . TestCase ):
     "" "Test: records in an empty database" ""
